@@ -15,4 +15,4 @@ async function run() {
     });
 }
 
-run();
+run();	// this should work
